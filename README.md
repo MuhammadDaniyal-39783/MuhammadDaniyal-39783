@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **CCNA**
 
-- 👨‍💻 All of my projects are available at [powercodex369.blogspot.com](powercodex369.blogspot.com)
+- 👨‍💻 All of my projects are available at [https://powercodex369.blogspot.com](https://powercodex369.blogspot.com)
 
 - 📫 How to reach me **39783@iqraisb.edu.pk**
 
